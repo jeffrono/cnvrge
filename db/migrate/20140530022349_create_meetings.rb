@@ -4,6 +4,7 @@ class CreateMeetings < ActiveRecord::Migration
       t.integer :event_id
       t.integer :location_id
       t.integer :round
+      t.integer :duration
       t.timestamps
     end
     
