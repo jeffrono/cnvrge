@@ -24,6 +24,7 @@ GEM
     minitest (5.3.4)
     multi_json (1.10.1)
     pg (0.17.1)
+    pg (0.17.1-x86-mingw32)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -46,6 +47,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   haml
